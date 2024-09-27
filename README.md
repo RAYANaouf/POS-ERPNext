@@ -9,6 +9,9 @@ The custom POS page comes pre-installed when you install the app, requiring no m
 
 <br>
 
+###the way it works :
+I'm working with a custom POS implementation in ERPNext, using offline storage by managing variables in memory (RAM) to simulate POS operations. I'm fetching necessary data (like customers, items, item prices, and warehouse lists) at the start, storing them in arrays and maps, and then operating offline with this data. My approach aligns well with handling offline functionality, especially in POS systems that need to operate without continuous server interaction.
+
 ### POS PAGE overview :
 | Tab | photo |
 |-----|-------|
