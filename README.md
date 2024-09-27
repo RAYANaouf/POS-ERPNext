@@ -9,18 +9,18 @@ The custom POS page comes pre-installed when you install the app, requiring no m
 
 <br>
 
-###the way it works :
+### the way it works :
 I'm working with a custom POS implementation in ERPNext, using offline storage by managing variables in memory (RAM) to simulate POS operations. I'm fetching necessary data (like customers, items, item prices, and warehouse lists) at the start, storing them in arrays and maps, and then operating offline with this data. My approach aligns well with handling offline functionality, especially in POS systems that need to operate without continuous server interaction.
 
 ### POS PAGE overview :
 | Tab | photo |
 |-----|-------|
-|POS Screen             | ![screen1](https://github.com/user-attachments/assets/dd15895b-ff91-464d-9046-b30c75256b6b)|
-|Select ItemGroup       | ![screen2](https://github.com/user-attachments/assets/539843ac-1886-4129-b245-a8d3cea87bb2)|
-|Get All Item (Filtred) | ![screen3](https://github.com/user-attachments/assets/d0d72e4f-b6c2-4ed2-8b6d-1614ab9d8a68)|
+|POS Screen             | ![screen1](https://github.com/user-attachments/assets/8203e211-a192-476c-882c-a40cbe0a7f79)|
+|Select ItemGroup       | ![screen2](https://github.com/user-attachments/assets/1fd57f82-19af-44dd-8cae-a19dd4f36515)|
+|Get All Item (Filtred) | ![screen3](https://github.com/user-attachments/assets/5854b6cc-7a35-4f05-843f-2c1037819ada)|
 |Selecting customer     | ![screen4](https://github.com/user-attachments/assets/43698fd7-1f24-44d8-a3d2-77e148b2a9e9)|
-|Click on Item to sell  | ![screen5](https://github.com/user-attachments/assets/c964b503-b4be-4786-9829-fc1b7aa27db0)|
-|Item Details Cart      | ![screen6](https://github.com/user-attachments/assets/88e205c2-a9d8-4164-88b9-683c8d870aaa)|
+|Click on Item to sell  | ![screen5](https://github.com/user-attachments/assets/99e2ecb9-2b70-4263-84d0-fcac043fb5a4)|
+|Item Details Cart      | ![screen6](https://github.com/user-attachments/assets/a3cc0681-975d-4e11-bed8-6155a7421259)|
 
 
 
