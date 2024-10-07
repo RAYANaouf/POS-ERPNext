@@ -21,6 +21,7 @@ I'm working with a custom POS implementation in ERPNext, using offline storage b
 |Selecting customer     | ![screen4](https://github.com/user-attachments/assets/c11af200-2cdd-4ffe-9ba6-40a534e0fd08)|
 |Click on Item to sell  | ![screen5](https://github.com/user-attachments/assets/a8edfd1d-057f-458b-ae9a-f1a3f3b7a949)|
 |Item Details Cart      | ![screen6](https://github.com/user-attachments/assets/9099d926-259b-4900-93eb-1bb7e5122785)|
+|When Checkout          | ![screen7](https://github.com/user-attachments/assets/13d15f8e-e7d1-4c57-8a8a-82bc44ea42aa)|
 
 
 
