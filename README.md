@@ -15,16 +15,18 @@ I'm working with a custom POS implementation in ERPNext, using offline storage b
 ### POS PAGE overview :
 | Tab | photo |
 |-----|-------|
-|POS Screen                        | ![screen1](https://github.com/user-attachments/assets/c5bb1230-5e09-4fcb-b727-4000ceeb90bf)|
-|Select ItemGroup                  | ![screen2](https://github.com/user-attachments/assets/8a97c052-cd45-47f4-95fc-1e90bd0aa332)|
-|Get All Item (Filtred)            | ![screen3](https://github.com/user-attachments/assets/f2b8200a-207a-449b-a00b-13f7a5fc5280)|
-|Selecting customer                | ![screen4](https://github.com/user-attachments/assets/c11af200-2cdd-4ffe-9ba6-40a534e0fd08)|
-|Click on Item to sell             | ![screen5](https://github.com/user-attachments/assets/a8edfd1d-057f-458b-ae9a-f1a3f3b7a949)|
-|Item Details Cart                 | ![screen6](https://github.com/user-attachments/assets/9099d926-259b-4900-93eb-1bb7e5122785)|
-|When Checkout                     | ![screen7](https://github.com/user-attachments/assets/13d15f8e-e7d1-4c57-8a8a-82bc44ea42aa)|
-|Submit the pos invoice (on local) | ![screen8](https://github.com/user-attachments/assets/b16197c9-5b5e-4e67-9f94-d68844656db0)|
+|POS Screen                         | ![screen1](https://github.com/user-attachments/assets/c5bb1230-5e09-4fcb-b727-4000ceeb90bf)|
+|Select ItemGroup                   | ![screen2](https://github.com/user-attachments/assets/8a97c052-cd45-47f4-95fc-1e90bd0aa332)|
+|Get All Item (Filtred)             | ![screen3](https://github.com/user-attachments/assets/f2b8200a-207a-449b-a00b-13f7a5fc5280)|
+|Selecting customer                 | ![screen4](https://github.com/user-attachments/assets/c11af200-2cdd-4ffe-9ba6-40a534e0fd08)|
+|Click on Item to sell              | ![screen5](https://github.com/user-attachments/assets/a8edfd1d-057f-458b-ae9a-f1a3f3b7a949)|
+|Item Details Cart                  | ![screen6](https://github.com/user-attachments/assets/9099d926-259b-4900-93eb-1bb7e5122785)|
+|When Checkout                      | ![screen7](https://github.com/user-attachments/assets/13d15f8e-e7d1-4c57-8a8a-82bc44ea42aa)|
+|Submit the pos invoice (on local)  | ![screen8](https://github.com/user-attachments/assets/b16197c9-5b5e-4e67-9f94-d68844656db0)|
 |after submit **create new tab** && **make sync button orange** | ![screen9](https://github.com/user-attachments/assets/e1cd51c6-73fa-4237-b9d5-d8a3e4474f5a)|
-|Sync with progress bar            | ![screen10](https://github.com/user-attachments/assets/74f5c087-61ab-485e-aa6f-16b7d39c2ca0)|
+|Sync with progress bar             | ![screen10](https://github.com/user-attachments/assets/74f5c087-61ab-485e-aa6f-16b7d39c2ca0)|
+|after sync the button return green | ![screen11](https://github.com/user-attachments/assets/3bb58dec-23a0-4036-9029-875b528c4b52)|
+|menu options                       | ![screen12](https://github.com/user-attachments/assets/490021e5-e72e-44b6-8599-2df709e65c96)|
 
 
 
