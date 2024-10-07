@@ -15,12 +15,12 @@ I'm working with a custom POS implementation in ERPNext, using offline storage b
 ### POS PAGE overview :
 | Tab | photo |
 |-----|-------|
-|POS Screen             | ![screen1](https://github.com/user-attachments/assets/8203e211-a192-476c-882c-a40cbe0a7f79)|
-|Select ItemGroup       | ![screen2](https://github.com/user-attachments/assets/1fd57f82-19af-44dd-8cae-a19dd4f36515)|
-|Get All Item (Filtred) | ![screen3](https://github.com/user-attachments/assets/5854b6cc-7a35-4f05-843f-2c1037819ada)|
-|Selecting customer     | ![screen4](https://github.com/user-attachments/assets/43698fd7-1f24-44d8-a3d2-77e148b2a9e9)|
-|Click on Item to sell  | ![screen5](https://github.com/user-attachments/assets/99e2ecb9-2b70-4263-84d0-fcac043fb5a4)|
-|Item Details Cart      | ![screen6](https://github.com/user-attachments/assets/a3cc0681-975d-4e11-bed8-6155a7421259)|
+|POS Screen             | ![screen1](https://github.com/user-attachments/assets/c5bb1230-5e09-4fcb-b727-4000ceeb90bf)|
+|Select ItemGroup       | ![screen2](https://github.com/user-attachments/assets/8a97c052-cd45-47f4-95fc-1e90bd0aa332)|
+|Get All Item (Filtred) | ![screen3](https://github.com/user-attachments/assets/f2b8200a-207a-449b-a00b-13f7a5fc5280)|
+|Selecting customer     | ![screen4](https://github.com/user-attachments/assets/c11af200-2cdd-4ffe-9ba6-40a534e0fd08)|
+|Click on Item to sell  | ![screen5](https://github.com/user-attachments/assets/a8edfd1d-057f-458b-ae9a-f1a3f3b7a949)|
+|Item Details Cart      | ![screen6](https://github.com/user-attachments/assets/9099d926-259b-4900-93eb-1bb7e5122785)|
 
 
 
