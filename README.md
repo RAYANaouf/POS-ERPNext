@@ -23,7 +23,8 @@ I'm working with a custom POS implementation in ERPNext, using offline storage b
 |Item Details Cart                 | ![screen6](https://github.com/user-attachments/assets/9099d926-259b-4900-93eb-1bb7e5122785)|
 |When Checkout                     | ![screen7](https://github.com/user-attachments/assets/13d15f8e-e7d1-4c57-8a8a-82bc44ea42aa)|
 |Submit the pos invoice (on local) | ![screen8](https://github.com/user-attachments/assets/b16197c9-5b5e-4e67-9f94-d68844656db0)|
-|after submit **create new tab** && **make sync button orange** | ![screen8](https://github.com/user-attachments/assets/e1cd51c6-73fa-4237-b9d5-d8a3e4474f5a)|
+|after submit **create new tab** && **make sync button orange** | ![screen9](https://github.com/user-attachments/assets/e1cd51c6-73fa-4237-b9d5-d8a3e4474f5a)|
+|Sync with progress bar            | ![screen10](https://github.com/user-attachments/assets/74f5c087-61ab-485e-aa6f-16b7d39c2ca0)|
 
 
 
