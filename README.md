@@ -18,8 +18,8 @@ I'm working with a custom POS implementation in ERPNext, using offline storage b
 |POS Screen                         | ![screen1](https://github.com/user-attachments/assets/3df75b3a-f4ae-4f27-a3b9-bad2c3df8517)|
 |Select ItemGroup                   | ![screen2](https://github.com/user-attachments/assets/329f88e2-793a-4c1c-82ee-1c2423fa7f47)|
 |Get All Item (Filtred by name,code bar or group)             | ![screen3](https://github.com/user-attachments/assets/a170915f-1fdc-4472-ba18-5e1556943930)|
-|Selecting customer                 | ![screen4](https://github.com/user-attachments/assets/c11af200-2cdd-4ffe-9ba6-40a534e0fd08)|
-|Click on Item to sell              | ![screen5](https://github.com/user-attachments/assets/a8edfd1d-057f-458b-ae9a-f1a3f3b7a949)|
+|Selecting items                    | ![screen4](https://github.com/user-attachments/assets/b3e7cdee-30ce-4b56-8356-e5e03a1fd78f)|
+|select client and price list to detect item price              | ![screen5](https://github.com/user-attachments/assets/d180966c-8ea2-419c-a78f-e71373ef6846)|
 |Item Details Cart                  | ![screen6](https://github.com/user-attachments/assets/9099d926-259b-4900-93eb-1bb7e5122785)|
 |When Checkout                      | ![screen7](https://github.com/user-attachments/assets/13d15f8e-e7d1-4c57-8a8a-82bc44ea42aa)|
 |Submit the pos invoice (on local)  | ![screen8](https://github.com/user-attachments/assets/b16197c9-5b5e-4e67-9f94-d68844656db0)|
