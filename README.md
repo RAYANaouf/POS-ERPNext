@@ -20,7 +20,7 @@ I'm working with a custom POS implementation in ERPNext, using offline storage b
 |Get All Item (Filtred by name,code bar or group)             | ![screen3](https://github.com/user-attachments/assets/a170915f-1fdc-4472-ba18-5e1556943930)|
 |Selecting items                    | ![screen4](https://github.com/user-attachments/assets/b3e7cdee-30ce-4b56-8356-e5e03a1fd78f)|
 |select client and price list to detect item price              | ![screen5](https://github.com/user-attachments/assets/d180966c-8ea2-419c-a78f-e71373ef6846)|
-|Item Details Cart                  | ![screen6](https://github.com/user-attachments/assets/9099d926-259b-4900-93eb-1bb7e5122785)|
+|Item Details Cart : quantity Rate (can change it) , Discount persentage or amount calculated based on each other. price list rate just to show the base rate that came from price list. and we have the calculated field discount  amount.                    | ![screen6](https://github.com/user-attachments/assets/fd98b052-90fd-4efa-a21b-ddc72499295d)|
 |When Checkout                      | ![screen7](https://github.com/user-attachments/assets/13d15f8e-e7d1-4c57-8a8a-82bc44ea42aa)|
 |Submit the pos invoice (on local)  | ![screen8](https://github.com/user-attachments/assets/b16197c9-5b5e-4e67-9f94-d68844656db0)|
 |after submit **create new tab** && **make sync button orange** | ![screen9](https://github.com/user-attachments/assets/e1cd51c6-73fa-4237-b9d5-d8a3e4474f5a)|
