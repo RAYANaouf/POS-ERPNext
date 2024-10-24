@@ -15,9 +15,9 @@ I'm working with a custom POS implementation in ERPNext, using offline storage b
 ### POS PAGE overview :
 | Tab | photo |
 |-----|-------|
-|POS Screen                         | ![screen1](https://github.com/user-attachments/assets/c5bb1230-5e09-4fcb-b727-4000ceeb90bf)|
-|Select ItemGroup                   | ![screen2](https://github.com/user-attachments/assets/8a97c052-cd45-47f4-95fc-1e90bd0aa332)|
-|Get All Item (Filtred)             | ![screen3](https://github.com/user-attachments/assets/f2b8200a-207a-449b-a00b-13f7a5fc5280)|
+|POS Screen                         | ![screen1](https://github.com/user-attachments/assets/3df75b3a-f4ae-4f27-a3b9-bad2c3df8517)|
+|Select ItemGroup                   | ![screen2](https://github.com/user-attachments/assets/329f88e2-793a-4c1c-82ee-1c2423fa7f47)|
+|Get All Item (Filtred by name,code bar or group)             | ![screen3](https://github.com/user-attachments/assets/a170915f-1fdc-4472-ba18-5e1556943930)|
 |Selecting customer                 | ![screen4](https://github.com/user-attachments/assets/c11af200-2cdd-4ffe-9ba6-40a534e0fd08)|
 |Click on Item to sell              | ![screen5](https://github.com/user-attachments/assets/a8edfd1d-057f-458b-ae9a-f1a3f3b7a949)|
 |Item Details Cart                  | ![screen6](https://github.com/user-attachments/assets/9099d926-259b-4900-93eb-1bb7e5122785)|
