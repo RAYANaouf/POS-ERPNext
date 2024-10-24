@@ -21,12 +21,12 @@ I'm working with a custom POS implementation in ERPNext, using offline storage b
 |Selecting items                    | ![screen4](https://github.com/user-attachments/assets/b3e7cdee-30ce-4b56-8356-e5e03a1fd78f)|
 |select client and price list to detect item price              | ![screen5](https://github.com/user-attachments/assets/d180966c-8ea2-419c-a78f-e71373ef6846)|
 |Item Details Cart : quantity Rate (can change it) , Discount persentage or amount calculated based on each other. price list rate just to show the base rate that came from price list. and we have the calculated field discount  amount.                    | ![screen6](https://github.com/user-attachments/assets/fd98b052-90fd-4efa-a21b-ddc72499295d)|
-|When Checkout                      | ![screen7](https://github.com/user-attachments/assets/13d15f8e-e7d1-4c57-8a8a-82bc44ea42aa)|
-|Submit the pos invoice (on local)  | ![screen8](https://github.com/user-attachments/assets/b16197c9-5b5e-4e67-9f94-d68844656db0)|
-|after submit **create new tab** && **make sync button orange** | ![screen9](https://github.com/user-attachments/assets/e1cd51c6-73fa-4237-b9d5-d8a3e4474f5a)|
-|Sync with progress bar             | ![screen10](https://github.com/user-attachments/assets/74f5c087-61ab-485e-aa6f-16b7d39c2ca0)|
-|after sync the button return green | ![screen11](https://github.com/user-attachments/assets/3bb58dec-23a0-4036-9029-875b528c4b52)|
-|menu options                       | ![screen12](https://github.com/user-attachments/assets/490021e5-e72e-44b6-8599-2df709e65c96)|
+|When Checkout : enter the paid amount , detect if the pos is Paid or Unpaid and calculate To change amount                     | ![screen7](https://github.com/user-attachments/assets/4d3f379b-b10f-41b0-8d50-89cab9523cf3)|
+|Submit the pos invoice (if the pos is unpaid it will push it diractly to the server so the internet conection is required otherwise it will save on the local db)  | ![screen8](https://github.com/user-attachments/assets/aa9e31dc-57f7-4c57-b4eb-2af865431a7e)|
+|after submit **create new tab** && **make sync button orange showing unsynced pos** | ![screen9](https://github.com/user-attachments/assets/b0e0eeb4-776d-454e-83e4-f2d5a605e474)|
+|Sync with progress bar             | ![screen10](https://github.com/user-attachments/assets/d5375c99-dd45-4afb-8b62-111eb93777a5)|
+|after sync the button return green | ![screen11](https://github.com/user-attachments/assets/13e05d96-abed-48cb-9aa6-e02e6af183c8)|
+|menu options                       | ![screen12](https://github.com/user-attachments/assets/576b0c96-c44f-4e90-86ae-31d83816c60c)|
 
 
 
