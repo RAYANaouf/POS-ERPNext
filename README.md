@@ -15,10 +15,10 @@ I'm working with a custom POS implementation in ERPNext, using offline storage b
 ### POS PAGE overview :
 | Tab | photo |
 |-----|-------|
-|POS Screen                         | ![screen1](https://github.com/user-attachments/assets/3df75b3a-f4ae-4f27-a3b9-bad2c3df8517)|
+|POS Screen                         | ![screen1](https://github.com/user-attachments/assets/0c20ab4c-d69f-4e77-8195-6bdca0f973bd)|
 |Select ItemGroup                   | ![screen2](https://github.com/user-attachments/assets/329f88e2-793a-4c1c-82ee-1c2423fa7f47)|
-|Get All Item (Filtred by name,code bar or group)             | ![screen3](https://github.com/user-attachments/assets/a170915f-1fdc-4472-ba18-5e1556943930)|
-|Selecting items                    | ![screen4](https://github.com/user-attachments/assets/b3e7cdee-30ce-4b56-8356-e5e03a1fd78f)|
+|Get All Item (Filtred by name,code bar or group)             | ![screen3](https://github.com/user-attachments/assets/d44ecd0e-18e3-4ed4-94c5-c5aacce9fe88)|
+|Selecting items                    | ![screen4](https://github.com/user-attachments/assets/ee198c63-8bdd-47dd-8667-6e39aa3baabc)|
 |select client and price list to detect item price              | ![screen5](https://github.com/user-attachments/assets/d180966c-8ea2-419c-a78f-e71373ef6846)|
 |Item Details Cart : quantity Rate (can change it) , Discount persentage or amount calculated based on each other. price list rate just to show the base rate that came from price list. and we have the calculated field discount  amount.                    | ![screen6](https://github.com/user-attachments/assets/fd98b052-90fd-4efa-a21b-ddc72499295d)|
 |When Checkout : enter the paid amount , detect if the pos is Paid or Unpaid and calculate To change amount                     | ![screen7](https://github.com/user-attachments/assets/4d3f379b-b10f-41b0-8d50-89cab9523cf3)|
