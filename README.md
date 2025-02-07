@@ -16,12 +16,12 @@ I'm working with a custom POS implementation in ERPNext, using offline storage b
 | Tab | photo |
 |-----|-------|
 |POS Screen                         | ![screen1](https://github.com/user-attachments/assets/0c20ab4c-d69f-4e77-8195-6bdca0f973bd)|
-|Select ItemGroup                   | ![screen2](https://github.com/user-attachments/assets/329f88e2-793a-4c1c-82ee-1c2423fa7f47)|
+|Select ItemGroup   (Old version style)       | ![screen2](https://github.com/user-attachments/assets/329f88e2-793a-4c1c-82ee-1c2423fa7f47)|
 |Get All Item (Filtred by name,code bar or group)             | ![screen3](https://github.com/user-attachments/assets/d44ecd0e-18e3-4ed4-94c5-c5aacce9fe88)|
 |Selecting items                    | ![screen4](https://github.com/user-attachments/assets/ee198c63-8bdd-47dd-8667-6e39aa3baabc)|
 |select client and price list to detect item price              | ![screen5](https://github.com/user-attachments/assets/38b60eaf-5992-4c5f-91d3-54bfb86eb91b)|
 |Item Details Cart : quantity Rate (can change it) , Discount persentage or amount calculated based on each other. price list rate just to show the base rate that came from price list. and we have the calculated field discount  amount.                    | ![screen6](https://github.com/user-attachments/assets/40921d3f-ce60-4d16-ae94-b0c0522d2862)|
-|When Checkout : enter the paid amount , detect if the pos is Paid or Unpaid and calculate To change amount                     | ![screen7](https://github.com/user-attachments/assets/4d3f379b-b10f-41b0-8d50-89cab9523cf3)|
+|When Checkout : enter the paid amount , detect if the pos is Paid or Unpaid and calculate To change amount                     | ![screen7](https://github.com/user-attachments/assets/401d5b3b-5c37-484d-9187-983f7aafa3dc)|
 |Submit the pos invoice (if the pos is unpaid it will push it diractly to the server so the internet conection is required otherwise it will save on the local db)  | ![screen8](https://github.com/user-attachments/assets/aa9e31dc-57f7-4c57-b4eb-2af865431a7e)|
 |after submit **create new tab** && **make sync button orange showing unsynced pos** | ![screen9](https://github.com/user-attachments/assets/b0e0eeb4-776d-454e-83e4-f2d5a605e474)|
 |Sync with progress bar             | ![screen10](https://github.com/user-attachments/assets/d5375c99-dd45-4afb-8b62-111eb93777a5)|
